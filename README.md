@@ -7,7 +7,7 @@
 (>'.')> Join Kirby on a fun fruit-filled adventure! Eat all the fruits, escape from bombs, find secrets, defeat bosses and much more! <('.'<)
 
 <p align="center">
-<img width="400" height="300" alt="171 Sem Título_20260713114147" src="https://github.com/user-attachments/assets/39310d1c-7854-4d0d-8a8a-9680a8156c49" />
+<img width="400" height="300" alt="KirbyFruitMadnessThumb" src="https://github.com/user-attachments/assets/39310d1c-7854-4d0d-8a8a-9680a8156c49" />
 </p>
 
 ## ● Controls:
