@@ -54,6 +54,6 @@
 • A Trip To Alivel Mall | Kirby and the Forgotten Land - GBA Demake by Willfox Piano<br>
 • Moonstruck Blossom | Kirby: Triple Deluxe - GBA Demake by Willfox Piano
 
-## License
+## ● License:
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 > 🚫 No generative AI was used in the code of this game.
